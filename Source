@@ -159,7 +159,7 @@ newDrawing = {new = function(DrawingType)
 					box_object.Size = UDim2.new(0,value.X,0,value.Y)
 				end
 			end
-		})
+		}) 
 	end
 end}
 Drawing = Drawing or newDrawing
